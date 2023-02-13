@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asit_editor/static/css/main.e6c13ad2.css",
+    "main.js": "/asit_editor/static/js/main.003a945f.js",
+    "static/js/787.6f71ba49.chunk.js": "/asit_editor/static/js/787.6f71ba49.chunk.js",
+    "index.html": "/asit_editor/index.html",
+    "main.e6c13ad2.css.map": "/asit_editor/static/css/main.e6c13ad2.css.map",
+    "main.003a945f.js.map": "/asit_editor/static/js/main.003a945f.js.map",
+    "787.6f71ba49.chunk.js.map": "/asit_editor/static/js/787.6f71ba49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.003a945f.js"
+  ]
+}
